@@ -1,0 +1,3 @@
+[submodule "sub_inoue"]
+	path = sub_inoue
+	url = git@github.com:takafumi-inoue1129/sub_inoue.git
